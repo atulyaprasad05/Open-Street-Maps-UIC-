@@ -1,6 +1,6 @@
 # 🗺️ OpenStreetMaps Pathfinding Project (CS 251 - Spring 2025)
 
-This project builds a graph-based pathfinding application using real-world data from OpenStreetMaps (OSM). It parses JSON-formatted map data, constructs a weighted, undirected graph, and implements Dijkstra’s algorithm to compute shortest paths between buildings on the UIC campus.
+This project develops a graph-based pathfinding application utilizing real-world data from OpenStreetMap (OSM). It parses JSON-formatted map data, constructs a weighted, undirected graph, and implements Dijkstra’s algorithm to compute shortest paths between buildings on the UIC campus.
 
 ## 🚀 Features
 
@@ -35,4 +35,4 @@ Navigate to [http://localhost:8000](http://localhost:8000) to visualize paths on
 
 ## 🛡️ Academic Integrity
 This project is part of CS 251 at the University of Illinois Chicago and adheres to the university’s academic integrity policies.
-If you're interested in viewing the source code for educational or collaborative purposes, feel free to reach out via email: [atulya.prasad05@gmail.com](atulya.prasad05@gmail.com)
+If you're interested in viewing the source code for educational or collaborative purposes, feel free to reach out via email: atulya.prasad05@gmail.com
