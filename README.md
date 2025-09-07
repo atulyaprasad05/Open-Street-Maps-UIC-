@@ -23,8 +23,9 @@ make run_main
 ```bash
 make osm_server
 make run_server
-Navigate to http://localhost:8000 to visualize paths on a map.
 ```
+Navigate to [http://localhost:8000](http://localhost:8000) to visualize paths on a map.
+
 
 
 ## 📚 Dependencies
@@ -33,4 +34,5 @@ Navigate to http://localhost:8000 to visualize paths on a map.
 
 
 ## 🛡️ Academic Integrity
-This project is part of CS 251 at UIC and subject to academic integrity policies. Do not share or post solutions publicly.
+This project is part of CS 251 at the University of Illinois Chicago and adheres to the university’s academic integrity policies.
+If you're interested in viewing the source code for educational or collaborative purposes, feel free to reach out via email: [atulya.prasad05@gmail.com](atulya.prasad05@gmail.com)
